@@ -1,0 +1,60 @@
+#main > * > .inner {
+  max-width: 800px;
+}
+
+.tiles article:nth-child(3) {
+  width: 100%;
+}
+
+@media screen and (max-width: 736px) {
+  .tiles article:nth-child(3) {
+    width: 100% !important;
+  }
+}
+
+.image.main img {
+  display: none;
+}
+
+
+table {
+  display: table;
+  width: 100%;
+}
+
+table thead,
+table tbody {
+  width: 100%;
+}
+
+table thead {
+  overflow-y: scroll;
+  display: table;
+  table-layout: fixed;
+  width: calc(100% - 16px); /* assuming scrollbar width as 16px */
+}
+
+table tbody {
+  overflow: auto;
+  height: 200px;
+  display: block;
+}
+
+table tr {
+  width: 100%;
+  text-align: left;
+  display: table;
+  table-layout: fixed;
+}
+
+#footer .copyright {
+  font-weight: bold;
+  text-align: center;
+}
+
+/* #footer .copyright a {
+  border-bottom: none;
+}
+*/
+
+
