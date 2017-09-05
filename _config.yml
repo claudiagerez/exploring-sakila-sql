@@ -2,7 +2,7 @@
 title: Exploring Sakila
 subtitle: with SQL
 email: gerezmiranda@gmail.com
-description: Using SQL to explore a sample database.
+description: Using SQL to retrieve information from a sample database
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
