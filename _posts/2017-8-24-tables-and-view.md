@@ -3,6 +3,7 @@ layout: post
 title: Tables and Views
 description: Sample datasets retrieved from Sakila
 image: assets/images/pic02.jpg
+nav-menu: true
 ---
 Previous to working on this project I audited the course [Managing Big Data with MySQL](https://www.coursera.org/learn/analytics-mysql) which is an introduction to how to use relational databases in business analysis.
 
@@ -114,3 +115,9 @@ SELECT * FROM sales_by_store INTO OUTFILE '/tmp/sales-by-store.csv'
   TERMINATED BY ',' 
   LINES TERMINATED BY '\n';
 ~~~~
+
+&nbsp;
+
+<div class="end-page">
+<a href="/2017/08/23/qa.html" class="button fit small">Continue to section: Marketing exploration</a>
+</div>

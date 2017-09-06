@@ -3,6 +3,7 @@ layout: post
 title: Introduction
 description: About Sakila and this project
 image: assets/images/pic01.jpg
+nav-menu: true
 ---
 ## About this project
 
@@ -20,5 +21,11 @@ The database presents a nicely normalised schema modelling a DVD rental store, f
 
 The following diagram provides an overview of the database structure. The diagram source file `sakila.mwb` (for use with MySQL Workbench) is included in the Sakila distribution.
 
-![Sakila database structure]({{ site.baseurl }}/assets/images/sakila-structure.png)
+![Sakila database structure]({{ site.url }}/assets/images/sakila-structure.png)
 _You can get the PDF version of the image through this [link]({{ site.baseurl }}/assets/images/sakila-structure.pdf)._
+
+&nbsp;
+
+<div class="end-page">
+<a href="/2017/08/24/tables-and-view.html" class="button fit small">Continue to section: Tables and Views</a>
+</div>
