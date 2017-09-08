@@ -9,7 +9,9 @@ nav-menu: true
 
 This project aims to demonstrate the use of SQL to answer hypothetical marketing-related questions about a DVD rental store with a MySQL database named Sakila.
 
-I run Debian Linux (version 9, "Stretch") on my laptop, so I have used the default MySQL server for this operating system, [MariaDB 10.1](https://en.wikipedia.org/wiki/MariaDB). This report was generated using [Markdown](https://guides.github.com/features/mastering-markdown/), [Liquid templates](https://shopify.github.io/liquid/), and [Jekyll](https://jekyllrb.com/). And I used the Jekyll theme ["Forty by HTML5 UP"](http://jekyllthemes.org/themes/Forty/).
+I run Debian Linux (version 9, "Stretch") on my laptop, so I have used the default MySQL server for this operating system, [MariaDB 10.1](https://en.wikipedia.org/wiki/MariaDB). This report was generated using [Markdown](https://guides.github.com/features/mastering-markdown/), [Liquid templates](https://shopify.github.io/liquid/), and [Jekyll](https://jekyllrb.com/). 
+
+I used the Jekyll theme ["Forty by HTML5 UP"](http://jekyllthemes.org/themes/Forty/).
 
 Data-sets were generated using SQL but exported to CSV.
 
