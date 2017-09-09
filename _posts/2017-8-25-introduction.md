@@ -11,7 +11,7 @@ This project aims to demonstrate the use of SQL to answer hypothetical marketing
 
 I run Debian Linux (version 9, "Stretch") on my laptop, so I have used the default MySQL server for this operating system, [MariaDB 10.1](https://en.wikipedia.org/wiki/MariaDB). This report was generated using [Markdown](https://guides.github.com/features/mastering-markdown/), [Liquid templates](https://shopify.github.io/liquid/), and [Jekyll](https://jekyllrb.com/). 
 
-I used the Jekyll theme ["Forty" by HTML5 UP](http://jekyllthemes.org/themes/Forty/).
+This website was designed using the Jekyll theme ["Forty"](http://jekyllthemes.org/themes/Forty/), by HTML5 UP.
 
 Data-sets were generated using SQL but exported to CSV.
 
